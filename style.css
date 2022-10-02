@@ -1,0 +1,37 @@
+h1{
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
+    font-size: 1cm;
+    color: white;
+}
+.home{
+    text-align: left;
+}
+.aboutus{
+    text-align: right;
+    color: antiquewhite;
+}
+h2{
+    text-align: left;
+    color: white;
+}
+body{
+    background-image: url("https://miro.medium.com/max/500/0*cOrcbrqewCgivds3");
+    color: white;
+}
+
+/*.books{ 
+   
+    padding-left: 161px;
+    padding-bottom: 141px;
+    padding-right: 90px;
+    margin: 12px;
+    border: 40px;
+    height: 1in;
+    width: 11in;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 1.5in;
+}
+#iwwv{
+    background-image: url("https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717682l/30319086._SY475_.jpg" );
+}*/
